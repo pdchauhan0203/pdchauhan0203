@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pdchauhan0203
+- 👋 Hi, I’m pdchauhan
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Full Stack Web Develoopment
 - 💞️ I’m looking to collaborate on ...
